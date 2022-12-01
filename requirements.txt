@@ -1,0 +1,7 @@
+compress-pickle==2.1.0
+matplotlib==3.2.2
+numpy==1.21.6
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+SQLAlchemy==1.4.44
+sqlalchemy-schemadisplay==1.3
